@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    line-height: 60px;
+    background-color: #E0FFFF;
+    text-align: center;
+    color:#333333;
+}
+.content{
+    width: 400px;
+  
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #D3DDDF;
+    background-image: url(../images/timg2.jpg);
+    padding: 10px
+}
+input{
+    line-height: 30px;
+    width: 280px;
+}
+button{
+    line-height: 30px;
+    width: 100px;
+    background-color:aquamarine;
+    border: 1px solid springgreen
+}
+img{
+    width: 400px;
+    margin: 10px auto;
+}
+.title{
+    color: deepskyblue;
+    margin-top: 20px;
+    padding-left: 30px;
+}
+p{
+    padding: 5px;
+    color: #333;
+}
+body{
+    background-color: #F0F8FF;
+}
+p~p{
+    margin-top: 20px;
+}
